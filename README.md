@@ -12,6 +12,19 @@ The hardest part of the conversation seems to be what we mean -- here are some w
 4. AI in operations & governance (addressing AI in organizations)
 
 
+
 ## AI Incident Resources
 * https://incidentdatabase.ai/
 * https://github.com/airctl
+  
+### Misc. reports/cases that were highly circulated on release
+These are incidents and research that made international news and ended up as talking points and cases in the business side, beyond security circles.
+* https://www.anthropic.com/news/disrupting-AI-espionage
+
+## Training Resources
+The original basic puzzle game since at least 2023 that can be used for helping tech and non-tech folks to learn about prompt injection as a hands-on lab. 
+* https://gandalf.lakera.ai/baseline
+
+## Standards and Guidance
+* https://genai.owasp.org/
+* https://atlas.mitre.org/
