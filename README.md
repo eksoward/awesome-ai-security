@@ -35,3 +35,4 @@ The original basic puzzle game since at least 2023 that can be used for helping 
 * https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf
 * https://hitrustalliance.net/assessments-and-certifications/aisecurityassessment
 * https://www.iso.org/standard/42001
+* https://dns-aid.org/
