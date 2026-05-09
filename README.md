@@ -9,7 +9,7 @@ The hardest part of the conversation seems to be what we mean -- here are some w
 1. AI application and system security & controls for privacy etc. (AI x AppSec)
 2. AI used for security tasks by a company (AI used for defense)
 3. AI and the adversarial threat landscape (AI used for offense/adversary threat landscape)
-4. AI in operations & governance (addressing AI in organizations)
+4. AI in strategy, operations, & governance (addressing AI in organizations)
 
 
 ## Projects & Research Collaborations
