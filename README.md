@@ -13,5 +13,5 @@ The hardest part of the conversation seems to be what we mean -- here are some w
 
 
 ## AI Incident Resources
-https://incidentdatabase.ai/
-https://github.com/airctl
+* https://incidentdatabase.ai/
+* https://github.com/airctl
